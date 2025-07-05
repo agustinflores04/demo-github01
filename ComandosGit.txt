@@ -4,3 +4,5 @@ git status: Muestra el estado actual de un repositorio
 git init: Inicia un nuevo repositorio
 git add: Agrega un archivo al área de trabajo o stage.
 git commit: Almacena los cambios en el repositorio.
+
+ejercicio 2 subir cambios a github
